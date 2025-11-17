@@ -1,0 +1,23 @@
+@layer utilities {
+  .browser-css {
+    color: #e2e8f0;
+    line-height: 1.7;
+  }
+
+  .browser-css h2,
+  .browser-css h3 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #fff;
+  }
+
+  .browser-css p {
+    margin-bottom: 1rem;
+  }
+
+  .browser-css a {
+    color: #38bdf8;
+    text-decoration: underline;
+  }
+}
+
